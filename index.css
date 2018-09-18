@@ -1,0 +1,98 @@
+
+
+li {
+  float: right;
+  font-family: sans-serif;
+  display: block;
+  padding: 14px 16px;
+  background-color: grey;
+}
+ul {
+    color: white;
+    background-color: grey;
+    list-style-type: none;
+    overflow: hidden;
+    margin: 0;
+    padding:0;
+}
+
+#Company {
+    float: left;
+    font-size: 24px;
+}
+
+h1 {
+    color: #fcef7b;
+    font-family: sans-serif;
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    padding: 100px;
+    text-align: center;
+    font-size: 50px;
+    letter-spacing: -2px;
+}
+
+p {
+    float:left;
+    margin-top: 90px;
+    margin-left: 130px;
+    width: 390px;
+    display:inline-block;
+}
+
+img {
+    float: right;
+    display: inline-block;
+    margin-top: 60px;
+    margin-right: 150px;
+    max-width: 50%;
+}
+
+.greenBox1 {
+   height: 325px;
+   width: 325px;
+   background-color: aquamarine;
+   margin: 40px;
+   display: inline-block;
+   border-radius: 25px;
+}
+.greenBox2 {
+    height: 325px;
+    width: 325px;
+    background-color: aquamarine;
+    margin: 40px;
+    display: inline-block;
+    border-radius: 25px;
+ }
+ .greenBox3 {
+    height:325px;
+    width: 325px;
+    background-color: aquamarine;
+    margin: 40px;
+    display: inline-block;
+    border-radius: 25px;
+ }
+ .orangeBox {
+    height: 325px;
+    width: 550px;
+    background-color: #f7c35b;
+    margin-top: 0;
+    margin-left: 40px;
+    display: inline-block;
+ }
+ .orangeBox2 {
+    height: 325px;
+    width: 550px;
+    background-color: #f7c35b;
+    margin-top: 0px;
+    margin-left:40px;
+    display: inline-block;
+ }
+ footer {
+    background-color: #23344f;
+    height: 100px;
+    width: 100%;
+    display:inline-block;
+    margin-top: 60px;
+}
